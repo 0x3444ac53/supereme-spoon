@@ -1,0 +1,4 @@
+markovify==0.7.1
+selenium==3.141.0
+Unidecode==1.0.23
+urllib3==1.25.2
